@@ -9,3 +9,7 @@ function resta(c, d) {
 function multiplicar (a,b){
   return a*b
 }
+
+function hechaEnMiRama (a){
+  return a
+}
