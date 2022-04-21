@@ -10,6 +10,12 @@ function multiplicar (a,b){
   return a*b
 }
 
+
 function saludar(){
     return "Hola"
 }
+
+function dividir (a, b) {
+  return a / b
+}
+
